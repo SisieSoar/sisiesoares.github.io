@@ -1,4 +1,4 @@
-# sisiesoares.github.io in teh house
+# sisiesoares.github.io in the house
 # Hello-world
 
 It s me mario!
